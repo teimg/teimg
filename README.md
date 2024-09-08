@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teim Giesen</h1>
-<h3">I am a resourceful and determined engineer with a passion for solving complex problems. I excel at rapidly learning new concepts and thrive in environments that demand innovation, creative solutions and a proactive approach. Currently, I am a prospective honors student in my second year of Computer Science and Engineering at Delft University of Technology, where I am proud to maintain a summa cum laude average of 9.42/10 (4.00 GPA). In addition to my academics, I am the co-founder of Timecapsule and also hold multiple roles within TU Delft, where I contribute my skills to various ventures.</h3>
+<h3">I am a resourceful and determined Computer Science and Engineer student with a passion for solving complex problems.</h3>
 
 - 👨‍💻 All of my projects are available at [https://teimgiesen-portfolio-site.vercel.app/](https://teimgiesen-portfolio-site.vercel.app/)
 
